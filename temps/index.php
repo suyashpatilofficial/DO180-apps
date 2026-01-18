@@ -46,7 +46,7 @@ if (isset($_POST['btnConvert'])) {
 $temp = $_POST['temp'];
 $scale = $_POST['scale'];
 $converted = convert($temp, $scale);
-echo "The India's original temperature, $temp, converted is $converted.";
+echo "The India's Popular BITS CREATED APP original temperature, $temp, converted is $converted.";
 }
 ?>
 
